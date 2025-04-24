@@ -66,7 +66,7 @@ function App() {
       <Flex direction="column" px="4" py="2" gap="2">
   <Flex align="center" justify="center" gap="4">
    <img
-  src="https://postimg.cc/BPFdL65G"
+  src="https://postimg.cc/5jx6vwMj"
   alt="Logo TRESNAA"
   style={{ width: '40px', height: '40px', borderRadius: '9999px' }}
 />
