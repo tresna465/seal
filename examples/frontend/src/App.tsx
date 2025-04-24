@@ -67,7 +67,7 @@ function App() {
   <Flex align="center" justify="center" gap="4">
    <img
   src="https://i.postimg.cc/G3DYWQ7P/1.png"
-  alt="TRESNAA"
+  alt="Logo TRESNAA"
   style={{ width: '40px', height: '40px', borderRadius: '9999px' }}
 />
     <h1 className="text-5xl font-extrabold text-center mb-2">Seal Example Apps by TRESNAA</h1>
