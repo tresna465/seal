@@ -63,13 +63,33 @@ function App() {
   const [capId, setCapId] = useState<string>('');
   return (
     <Container>
-      <Flex position="sticky" px="4" py="2" justify="between">
-        <h1 className="text-4xl font-bold m-4 mb-8">Seal Example Apps</h1>
-        {/* <p>TODO: add seal logo</p> */}
-        <Box>
-          <ConnectButton />
-        </Box>
-      </Flex>
+      <Flex direction="column" px="4" py="2" gap="2">
+  <Flex align="center" justify="center" gap="4">
+    <img
+      src="/mnt/data/x.avif"
+      alt="Logo TRESNAA"
+      style={{ width: '40px', height: '40px', borderRadius: '9999px' }}
+    />
+    <h1 className="text-5xl font-extrabold text-center mb-2">Seal Example Apps by TRESNAA</h1>
+    <a
+      href="https://x.com/tresnaa465"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <img
+        src="https://cdn-icons-png.flaticon.com/512/733/733579.png"
+        alt="Twitter"
+        style={{ width: '30px', height: '30px' }}
+      />
+    </a>
+  </Flex>
+  <Flex justify="between" align="center">
+    <h2 className="text-2xl font-bold">Seal Example Apps</h2>
+    <Box>
+      <ConnectButton />
+    </Box>
+  </Flex>
+</Flex>
       <Card style={{ marginBottom: '2rem' }}>
         <p>
           1. Code is available{' '}
