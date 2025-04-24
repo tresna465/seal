@@ -66,8 +66,8 @@ function App() {
       <Flex direction="column" px="4" py="2" gap="2">
   <Flex align="center" justify="center" gap="4">
    <img
-  src="https://raw.githubusercontent.com/tresna465/seal/refs/heads/main/public/assets/unnamed.webp"
-  alt="Logo"
+  src="https://postimg.cc/BPFdL65G"
+  alt="Logo TRESNAA"
   style={{ width: '40px', height: '40px', borderRadius: '9999px' }}
 />
     <h1 className="text-5xl font-extrabold text-center mb-2">Seal Example Apps by TRESNAA</h1>
