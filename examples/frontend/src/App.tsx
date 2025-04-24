@@ -65,11 +65,11 @@ function App() {
     <Container>
       <Flex direction="column" px="4" py="2" gap="2">
   <Flex align="center" justify="center" gap="4">
-    <img
-      src="/mnt/data/x.avif"
-      alt="Logo TRESNAA"
-      style={{ width: '40px', height: '40px', borderRadius: '9999px' }}
-    />
+   <img
+  src="/mnt/data/1.png"
+  alt="Logo TRESNAA"
+  style={{ width: '40px', height: '40px', borderRadius: '9999px' }}
+/>
     <h1 className="text-5xl font-extrabold text-center mb-2">Seal Example Apps by TRESNAA</h1>
     <a
       href="https://x.com/tresnaa465"
