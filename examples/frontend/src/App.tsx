@@ -66,7 +66,7 @@ function App() {
       <Flex direction="column" px="4" py="2" gap="2">
   <Flex align="center" justify="center" gap="4">
    <img
-  src="public/assets/unnamed.webp"
+  src="https://raw.githubusercontent.com/tresna465/seal/main/public/assets/1.png"
   alt="Logo"
   style={{ width: '40px', height: '40px', borderRadius: '9999px' }}
 />
