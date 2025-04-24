@@ -77,7 +77,7 @@ function App() {
       rel="noopener noreferrer"
     >
       <img
-        src="https://cdn-icons-png.flaticon.com/512/733/733579.png"
+        src="https://postimg.cc/tZZcwTMV"
         alt="Twitter"
         style={{ width: '30px', height: '30px' }}
       />
